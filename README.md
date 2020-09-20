@@ -10,18 +10,18 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 28384      |
-| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 19267      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 12650      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 9721       |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 8337       |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6421       |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 5169       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 3931       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1348       |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 28510      |
+| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 19325      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 12745      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 9762       |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 8405       |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6423       |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 5217       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 3936       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1350       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 974        |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 675        |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 626        |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 633        |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 583        |
 | [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 534        |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 514        |
@@ -31,10 +31,10 @@ All of my npm packages and their downloads
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 256        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 245        |
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 199        |
-| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 175        |
+| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 176        |
 | [median-age](https://www.npmjs.com/package/median-age)                               | 118        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 114        |
-| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 111        |
+| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 112        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 105        |
-| **Sum**                                                                              | **101434** |
+| **Sum**                                                                              | **101888** |
 <!-- AUTO-GENERATED-CONTENT:END -->
