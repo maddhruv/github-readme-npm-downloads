@@ -10,23 +10,23 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 45999      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 21731      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 13223      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 12667      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8104       |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6989       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 4380       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1711       |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 46026      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 21885      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 13264      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 12705      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8116       |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6990       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 4384       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1713       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 1161       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 1063       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 1066       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 751        |
-| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 656        |
+| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 719        |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 652        |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 575        |
-| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 559        |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 543        |
-| [authorer](https://www.npmjs.com/package/authorer)                                   | 416        |
+| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 560        |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 549        |
+| [authorer](https://www.npmjs.com/package/authorer)                                   | 417        |
 | [ipopen](https://www.npmjs.com/package/ipopen)                                       | 354        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 282        |
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 221        |
@@ -35,5 +35,5 @@ All of my npm packages and their downloads
 | [median-age](https://www.npmjs.com/package/median-age)                               | 145        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 135        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 133        |
-| **Sum**                                                                              | **122829** |
+| **Sum**                                                                              | **123182** |
 <!-- AUTO-GENERATED-CONTENT:END -->
