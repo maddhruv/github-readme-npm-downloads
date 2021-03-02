@@ -11,15 +11,15 @@ All of my npm packages and their downloads
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
 | [types-directory](https://www.npmjs.com/package/types-directory)                     | 47547      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 25516      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 25558      |
 | [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 14453      |
 | [install-types](https://www.npmjs.com/package/install-types)                         | 13828      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8327       |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8332       |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7009       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 4512       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1808       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 1809       |
 | [gst-states](https://www.npmjs.com/package/gst-states)                               | 1308       |
-| [web-workers](https://www.npmjs.com/package/web-workers)                             | 1205       |
+| [web-workers](https://www.npmjs.com/package/web-workers)                             | 1206       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1049       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 769        |
 | [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 693        |
@@ -36,5 +36,5 @@ All of my npm packages and their downloads
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 143        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 143        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 100        |
-| **Sum**                                                                              | **132074** |
+| **Sum**                                                                              | **132123** |
 <!-- AUTO-GENERATED-CONTENT:END -->
