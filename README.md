@@ -10,11 +10,11 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 56562      |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 52305      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 17428      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 16941      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9383       |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 56650      |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 52306      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 17438      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 16952      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9390       |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7665       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7102       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 4905       |
@@ -27,17 +27,17 @@ All of my npm packages and their downloads
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 791        |
 | [types-sync](https://www.npmjs.com/package/types-sync)                               | 745        |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 697        |
-| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 657        |
-| [authorer](https://www.npmjs.com/package/authorer)                                   | 515        |
+| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 658        |
+| [authorer](https://www.npmjs.com/package/authorer)                                   | 516        |
 | [ipopen](https://www.npmjs.com/package/ipopen)                                       | 455        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 392        |
 | [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 294        |
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 291        |
 | [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 272        |
+| [median-age](https://www.npmjs.com/package/median-age)                               | 220        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 217        |
-| [median-age](https://www.npmjs.com/package/median-age)                               | 216        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 207        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 190        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 182        |
-| **Sum**                                                                              | **187914** |
+| **Sum**                                                                              | **188037** |
 <!-- AUTO-GENERATED-CONTENT:END -->
