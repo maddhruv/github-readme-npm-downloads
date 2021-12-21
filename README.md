@@ -10,11 +10,11 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 110604     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 55354      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 110693     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 55356      |
 | [install-types](https://www.npmjs.com/package/install-types)                         | 20210      |
 | [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19008      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 12810      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 12833      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8004       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7144       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5399       |
@@ -39,6 +39,6 @@ All of my npm packages and their downloads
 | [check-support](https://www.npmjs.com/package/check-support)                         | 230        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 223        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 218        |
-| [banks](https://www.npmjs.com/package/banks)                                         | 51         |
-| **Sum**                                                                              | **257791** |
+| [banks](https://www.npmjs.com/package/banks)                                         | 52         |
+| **Sum**                                                                              | **257906** |
 <!-- AUTO-GENERATED-CONTENT:END -->
