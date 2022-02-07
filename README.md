@@ -10,11 +10,11 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 128489     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56083      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 20794      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19283      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 14517      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 128561     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56085      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 20795      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19284      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 14543      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8158       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7163       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5471       |
@@ -40,5 +40,5 @@ All of my npm packages and their downloads
 | [check-support](https://www.npmjs.com/package/check-support)                         | 235        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 228        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 61         |
-| **Sum**                                                                              | **280348** |
+| **Sum**                                                                              | **280450** |
 <!-- AUTO-GENERATED-CONTENT:END -->
