@@ -10,20 +10,20 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 153916     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56871      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 21593      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19470      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 16189      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 154640     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56879      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 21632      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19478      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 16215      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8278       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7174       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5519       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 3669       |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 2736       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5521       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 3678       |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 2747       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2347       |
-| [web-workers](https://www.npmjs.com/package/web-workers)                             | 1900       |
-| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1782       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1690       |
+| [web-workers](https://www.npmjs.com/package/web-workers)                             | 1903       |
+| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1786       |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1693       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 1008       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 992        |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 857        |
@@ -37,8 +37,8 @@ All of my npm packages and their downloads
 | [median-age](https://www.npmjs.com/package/median-age)                               | 278        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 278        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 251        |
+| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 248        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 246        |
-| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 242        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 95         |
-| **Sum**                                                                              | **310742** |
+| **Sum**                                                                              | **311585** |
 <!-- AUTO-GENERATED-CONTENT:END -->
