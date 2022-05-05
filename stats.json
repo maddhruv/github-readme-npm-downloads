@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "NPM",
-  "message": "339882 Downloads",
+  "message": "jOOQ; SQL [select \"public\".\"download_count\".\"package_name\", \"public\".\"download_count\".\"date\", \"public\".\"download_count\".\"count\" from \"public\".\"download_count\" where (\"public\".\"download_count\".\"package_name\" in (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) and \"public\".\"download_count\".\"date\" between cast(? as date) and cast(? as date)) order by \"public\".\"download_count\".\"date\" asc]; ERROR: could not write to file \"base/pgsql_tmp/pgsql_tmp10596.0\": No space left on device; nested exception is org.postgresql.util.PSQLException: ERROR: could not write to file \"base/pgsql_tmp/pgsql_tmp10596.0\": No space left on deviceInternal Server Error/npm-stat/api/download-counts02022-05-05T01:46:10.846+0000 Downloads",
   "color": "orange",
   "style": "for-the-badge",
   "namedLogo": "npm"
