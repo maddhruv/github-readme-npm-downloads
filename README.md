@@ -10,13 +10,13 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 347500     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 78750      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 30198      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 28965      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 21858      |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 9665       |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 8820       |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 347987     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 78823      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 30229      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 29016      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 21861      |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 9667       |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 8921       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7281       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5961       |
 | [gst-states](https://www.npmjs.com/package/gst-states)                               | 5632       |
@@ -31,17 +31,17 @@ All of my npm packages and their downloads
 | [authorer](https://www.npmjs.com/package/authorer)                                   | 754        |
 | [ipopen](https://www.npmjs.com/package/ipopen)                                       | 669        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 605        |
-| [react-icons-pack](https://www.npmjs.com/package/react-icons-pack)                   | 555        |
+| [react-icons-pack](https://www.npmjs.com/package/react-icons-pack)                   | 556        |
 | [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 479        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 455        |
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 430        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 387        |
+| [median-age](https://www.npmjs.com/package/median-age)                               | 386        |
 | [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 385        |
-| [median-age](https://www.npmjs.com/package/median-age)                               | 385        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 380        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 328        |
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 214        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 195        |
-| [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 76         |
-| **Sum**                                                                              | **565319** |
+| [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 77         |
+| **Sum**                                                                              | **566070** |
 <!-- AUTO-GENERATED-CONTENT:END -->
