@@ -10,20 +10,20 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 358100     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 84030      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 32013      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 30938      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22024      |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 10253      |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 9719       |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 358424     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 84588      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 32041      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 30962      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22025      |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 10266      |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 9720       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7288       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 6239       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 6266       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5998       |
-| [web-workers](https://www.npmjs.com/package/web-workers)                             | 2861       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2752       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2431       |
-| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2241       |
+| [web-workers](https://www.npmjs.com/package/web-workers)                             | 2862       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2753       |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2432       |
+| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2242       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 1241       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1214       |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 1041       |
@@ -43,5 +43,5 @@ All of my npm packages and their downloads
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 225        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 203        |
 | [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 85         |
-| **Sum**                                                                              | **587590** |
+| **Sum**                                                                              | **588570** |
 <!-- AUTO-GENERATED-CONTENT:END -->
