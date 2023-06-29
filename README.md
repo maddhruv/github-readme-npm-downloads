@@ -10,24 +10,24 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 361404     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 86656      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 32638      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 31426      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22053      |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 10641      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 361694     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 86699      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 32667      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 31476      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22066      |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 10654      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 9752       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7295       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 6396       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 6009       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 6415       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 6012       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 2872       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2772       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2456       |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2460       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2248       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 1252       |
-| [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1220       |
-| [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 1043       |
-| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 784        |
+| [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1221       |
+| [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 1044       |
+| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 785        |
 | [authorer](https://www.npmjs.com/package/authorer)                                   | 767        |
 | [ipopen](https://www.npmjs.com/package/ipopen)                                       | 677        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 618        |
@@ -43,5 +43,5 @@ All of my npm packages and their downloads
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 236        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 207        |
 | [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 88         |
-| **Sum**                                                                              | **595427** |
+| **Sum**                                                                              | **595894** |
 <!-- AUTO-GENERATED-CONTENT:END -->
