@@ -10,18 +10,18 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 395415     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 102705     |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 37740      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 34616      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22407      |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 15270      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 395745     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 102708     |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 37778      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 34618      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 22426      |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 15274      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 10302      |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 7571       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 7579       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7326       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 6096       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 6099       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 3038       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2894       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2900       |
 | [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2647       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2339       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1461       |
@@ -37,11 +37,11 @@ All of my npm packages and their downloads
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 475        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 448        |
 | [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 436        |
-| [median-age](https://www.npmjs.com/package/median-age)                               | 433        |
+| [median-age](https://www.npmjs.com/package/median-age)                               | 434        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 429        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 393        |
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 274        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 247        |
 | [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 114        |
-| **Sum**                                                                              | **662689** |
+| **Sum**                                                                              | **663103** |
 <!-- AUTO-GENERATED-CONTENT:END -->
