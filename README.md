@@ -10,14 +10,14 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 435670     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 111720     |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 41748      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 37804      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 435710     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 111731     |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 41762      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 37813      |
 | [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 24388      |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 17507      |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 17508      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 10597      |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 8949       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 8951       |
 | [rice](https://www.npmjs.com/package/rice)                                           | 7352       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 6141       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 3152       |
@@ -43,5 +43,5 @@ All of my npm packages and their downloads
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 333        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 283        |
 | [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 129        |
-| **Sum**                                                                              | **726051** |
+| **Sum**                                                                              | **726128** |
 <!-- AUTO-GENERATED-CONTENT:END -->
